@@ -26,6 +26,6 @@ To access IRIS System Management Portal
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it
-This presents OEX package [iris-mail(https://openexchange.intersystems.com/package/iris-mail) using the actual IPM module    
+This presents OEX package [iris-mail](https://openexchange.intersystems.com/package/iris-mail) using the actual IPM module    
 All user documentation is found there in the [original repo](https://github.com/oliverwilms/iris-mail/blob/main/README.md)  
 Touch the production here [http://localhost:42773/csp/user/EnsPortal.ProductionConfig.zen?PRODUCTION=dc.iris.mail.Production](http://localhost:42773/csp/user/EnsPortal.ProductionConfig.zen?PRODUCTION=dc.iris.mail.Production)
