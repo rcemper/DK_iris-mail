@@ -11,6 +11,7 @@
 
    // this should be the place for individual application code.
    zpm "install iris-mail"
+   zpm "list"
  
    halt
 
